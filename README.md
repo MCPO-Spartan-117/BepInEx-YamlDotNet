@@ -1,4 +1,4 @@
-# Repair
+# BepInEx-YamlDotNet
 Some utilities alongside YamlDotNet to avoid HarmonyX from complaining about types that aren't loaded as well to package YamlDotNet for endusers.
 
 ## Build
