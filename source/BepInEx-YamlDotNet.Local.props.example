@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Optional overrides if your layout is unusual. -->
+    <!-- <BepInExDir>$(BaseGamePath)\BepInEx</BepInExDir> -->
+  </PropertyGroup>
+</Project>
